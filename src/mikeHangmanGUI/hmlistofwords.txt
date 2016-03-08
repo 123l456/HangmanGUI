@@ -1,0 +1,14 @@
+#word,used,successfully guessed,difficulty
+friend,1,0,1
+family,1,0,1
+chair,1,0,1
+board,2,0,1
+pen,0,0,1
+screen,3,0,0
+computer,2,0,0
+hello world,2,1,0
+Greyhounds,2,1,0
+Zucchini,2,0,1
+Superman,0,0,1
+Kryptonite,2,0,0
+Aqua,0,0,1
